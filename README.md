@@ -1,5 +1,3 @@
-## 黑蛋博士✨
-
 - 🐧 一个想当程序猿的工科男
 - 🌱 个人主页 <a href="https://heidan.cf/" target="_blank">简历</a>
 - 🤔 欢迎知乎互粉 <a href="https://www.zhihu.com/people/zhucf1996" target="_blank">@黑蛋</a>
